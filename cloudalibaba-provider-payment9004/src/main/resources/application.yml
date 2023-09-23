@@ -1,9 +1,9 @@
 server:
-  port: 9001
+  port: 9004
 
 spring:
   application:
-    name: nacosProvider
+    name: nacos-payment-provider
   cloud:
     nacos:
       discovery:
